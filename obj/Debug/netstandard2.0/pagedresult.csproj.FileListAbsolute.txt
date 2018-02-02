@@ -1,0 +1,8 @@
+C:\works\pagedresult\bin\Debug\netstandard2.0\pagedresult.deps.json
+C:\works\pagedresult\bin\Debug\netstandard2.0\pagedresult.dll
+C:\works\pagedresult\bin\Debug\netstandard2.0\pagedresult.pdb
+C:\works\pagedresult\obj\Debug\netstandard2.0\pagedresult.csproj.CoreCompileInputs.cache
+C:\works\pagedresult\obj\Debug\netstandard2.0\pagedresult.AssemblyInfoInputs.cache
+C:\works\pagedresult\obj\Debug\netstandard2.0\pagedresult.AssemblyInfo.cs
+C:\works\pagedresult\obj\Debug\netstandard2.0\pagedresult.dll
+C:\works\pagedresult\obj\Debug\netstandard2.0\pagedresult.pdb
